@@ -13,7 +13,7 @@ Usage:
 ./static_site_generator <input> <output>,
 where both arguments are paths to directories and output is not a subdirectory of input.
 ```
-Также есть ключик `--help` выводящий usage-информацию.
+Также есть ключ `--help`, выводящий usage-информацию.
 
 ## Архитектура
 
